@@ -1,0 +1,18 @@
+body::before{
+    display:block;
+    content:'';
+    height:50px;
+}
+
+#insta-id{
+    max-width: 10px;
+}
+
+.img-about{
+    height:200px;
+    width: auto;
+}
+/* .accordian-header{
+    background-color: black;
+    color:antiquewhite
+} */
